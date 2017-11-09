@@ -1,0 +1,22 @@
+{
+    "name": "pmdunggh/vndate",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "Tool for convert date vietnamese",
+    "keywords": ["vndate"],
+    "license": "GNU v3.0",
+    "authors": [
+        {
+            "name": "Pham Minh Dung",
+            "email": "pmdung@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "VanXuan\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
